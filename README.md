@@ -7,3 +7,5 @@ http://mapworldnews.com/
 https://puredata.info/
 
 https://github.com/bgribble/mfp
+
+https://en.wikipedia.org/wiki/Quine_(computing)
