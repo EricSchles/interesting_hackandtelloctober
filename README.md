@@ -25,3 +25,18 @@ http://pythonhackers.com/p/clementfarabet/videograph
 http://zulko.github.io/moviepy/
 
 https://github.com/FastLED/FastLED
+
+https://github.com/tlevine/urchin
+
+https://github.com/rvm/tf
+
+https://github.com/git-ftp/git-ftp
+
+http://www.bashinator.org/
+
+https://github.com/Bash-it/bash-it
+
+https://github.com/xdissent/ievms
+
+https://github.com/andsens/homeshick
+
