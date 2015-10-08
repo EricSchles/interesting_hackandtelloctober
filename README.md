@@ -18,3 +18,7 @@ https://pypi.python.org/pypi/videodigest/0.0.1
 
 https://pypi.python.org/pypi/autosub/0.3.3
 
+https://pypi.python.org/pypi/sba/1.6.0
+
+http://pythonhackers.com/p/clementfarabet/videograph
+
