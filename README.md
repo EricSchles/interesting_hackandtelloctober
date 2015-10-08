@@ -22,3 +22,4 @@ https://pypi.python.org/pypi/sba/1.6.0
 
 http://pythonhackers.com/p/clementfarabet/videograph
 
+http://zulko.github.io/moviepy/
