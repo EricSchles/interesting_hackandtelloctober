@@ -11,3 +11,6 @@ https://github.com/bgribble/mfp
 https://en.wikipedia.org/wiki/Quine_(computing)
 
 https://support.dnsimple.com/articles/what-is-ssl-certificate-chain/
+
+https://en.wikipedia.org/wiki/Automatic_summarization
+
