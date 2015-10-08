@@ -14,3 +14,5 @@ https://support.dnsimple.com/articles/what-is-ssl-certificate-chain/
 
 https://en.wikipedia.org/wiki/Automatic_summarization
 
+https://pypi.python.org/pypi/videodigest/0.0.1
+
